@@ -85,10 +85,7 @@ Embark on a journey through the cosmos with **Varsha Dewangan**, a luminary in t
 ## Cosmic Transmissions 📡
 
 - **Email:** [Scan QR Code for Email](https://github.com/Varsha-1605/Varsha-1605/assets/140236223/d506cc73-6c49-4481-b28d-da3256e0ad62)
-")
  <!-- Your QR code for email here -->
-- **LinkedIn:** [Scan QR Code for LinkedIn](linkedin_qr_code.png) <!-- Your QR code for LinkedIn here -->
+- **LinkedIn:** [Scan QR Code for LinkedIn](https://github.com/Varsha-1605/Varsha-1605/assets/140236223/6c4a3e30-4cad-4f0c-98c3-2cb4644d2d2a)
+  <!-- Your QR code for LinkedIn here -->
 
-"In a universe filled with endless possibilities, Varsha is the brightest star, illuminating the path to data enlightenment." - The Council of Cosmic Creators 🌌✨
-
-Apply
