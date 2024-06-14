@@ -84,7 +84,7 @@ Embark on a journey through the cosmos with **Varsha Dewangan**, a luminary in t
 
 ## Cosmic Transmissions 📡
 
-- **Email:** [Scan QR Code for Email](![Email](https://github.com/Varsha-1605/Varsha-1605/assets/140236223/d506cc73-6c49-4481-b28d-da3256e0ad62)
+- **Email:** [Scan QR Code for Email](https://github.com/Varsha-1605/Varsha-1605/assets/140236223/d506cc73-6c49-4481-b28d-da3256e0ad62)
 ")
  <!-- Your QR code for email here -->
 - **LinkedIn:** [Scan QR Code for LinkedIn](linkedin_qr_code.png) <!-- Your QR code for LinkedIn here -->
