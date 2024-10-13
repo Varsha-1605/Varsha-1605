@@ -1,12 +1,16 @@
-# <div align="center">👋 Hello, World! I'm Varsha Dewangan</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%7C+Python+Enthusiast;Web+Dev+Wizard+%7C+Data+Analyst&center=true&width=500&height=50&font=georgia">
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Varsha's+Digital+Realm!;AI+Engineer+%7C+Web+Dev+Wizard;Turning+Coffee+into+Code&center=true&size=30&color=58a6ff&background=000000&vCenter=true&width=450&height=70">
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" />
+</div>
+
+<h3 align="center">🚀 Passionate AI Engineer | 💻 Python Enthusiast | 🌐 Web Dev Wizard</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/varsha-dewangan-197983256"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -19,18 +23,19 @@
   <img src="https://komarev.com/ghpvc/?username=Varsha-1605&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
 </p>
 
----
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<details>
+<summary>🚀 About Me</summary>
+<br>
 
 ```python
 class VarshaDewangan:
     def __init__(self):
+        self.name = "Varsha Dewangan"
         self.role = "AI Engineer & Web Developer"
         self.language_spoken = ["Hindi", "English"]
-        self.skills = ["Python", "Machine Learning", "Web Development", "Data Analysis"]
+        self.code = ["Python", "JavaScript", "TypeScript", "HTML", "CSS"]
+        self.tools = ["TensorFlow", "PyTorch", "React", "Node.js", "FastAPI", "Docker"]
+        self.areas_of_interest = ["Machine Learning", "NLP", "Web Development", "Data Analysis"]
         self.current_focus = "Early Cancer Detection using AI"
         
     def say_hi(self):
@@ -46,125 +51,96 @@ me.say_hi()
 - 💬 Ask me about **AI/ML, Web Development, and Data Analysis**
 - ⚡ Fun fact: I can turn coffee into code and data into insights!
 
----
-
-## 🛠️ Tech Stack
+</details>
 
 <details>
-<summary>Click to expand!</summary>
+<summary>🛠 Tech Stack</summary>
+<br>
 
-### Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-### AI/ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 </details>
 
----
-
-## 🚀 Current Projects
-
 <details>
-<summary>Click to expand!</summary>
-
-1. [Real-time AI Chatbot](https://github.com/Varsha-1605/Chatbot_2.0)
-   - Implementing cutting-edge NLP and LLM technologies
-   - Creating intuitive and responsive conversational interfaces
-
-2. [Financial Advisor System](https://github.com/Varsha-1605/Financial-Advisor)
-   - Leveraging ML, NLP, and LLMs for personalized financial insights
-   - Helping users make informed financial decisions
-
-3. [URL Analyzer](https://github.com/Varsha-1605/Research-Analyst) & [Docs Analyzer](https://github.com/Varsha-1605/Document-Uploader)
-   - Developing RAG-based systems for comprehensive content analysis
-   - Extracting key insights from web pages and documents
-
+<summary>📊 GitHub Stats</summary>
+<br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Varsha-1605&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha-1605&theme=radical" alt="GitHub Streak" />
+</p>
 </details>
 
----
+<details>
+<summary>📈 Contribution Graph</summary>
+<br>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-1605&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+</details>
 
-## 📊 GitHub Stats
+<details>
+<summary>🏆 GitHub Trophies</summary>
+<br>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+</details>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varsha-1605&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<h2 align="center">🚀 Current Projects</h2>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha-1605&theme=radical" alt="GitHub Streak" />
-</div>
+<p align="center">
+<a href="https://github.com/Varsha-1605/Chatbot_2.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Chatbot_2.0&theme=radical" alt="Chatbot 2.0" />
+</a>
+<a href="https://github.com/Varsha-1605/Financial-Advisor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Financial-Advisor&theme=radical" alt="Financial Advisor" />
+</a>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varsha-1605&layout=compact&theme=radical" alt="Top Languages" />
-</div>
+<h2 align="center">💡 A Quote to Inspire</h2>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</p>
 
----
+<h2 align="center">🤝 Support My Work</h2>
+<p align="center">
+<a href="https://www.buymeacoffee.com/Varsha1605" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+</p>
 
-## 🏆 GitHub Trophies
+<h2 align="center">📫 How to Reach Me</h2>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+<p align="center">
+<a href="mailto:varshadewangan1605@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/varsha-dewangan-197983256"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Vara_Dew"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
----
+<h2 align="center">🎵 Currently Vibing To</h2>
 
-## 🎉 HactoberFest 2024
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31gtdk53kvf4dtdreqvblryxdxlq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="400"/>
+</p>
 
-<div align="center">
-  <a href="https://holopin.io/@varsha1605">
-    <img src="https://holopin.me/varsha1605" alt="@varsha1605's Holopin board" />
-  </a>
-</div>
+<h2 align="center">🌟 Visitors</h2>
 
----
+<p align="center">
+<img src="https://profile-counter.glitch.me/Varsha-1605/count.svg" alt="Visitor Count">
+</p>
 
-## 💡 A Quote to Inspire
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
-## 🤝 Support My Work
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/Varsha1605" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" >
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
