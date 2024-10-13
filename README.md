@@ -141,13 +141,14 @@ me.say_hi()
 ---
 
 <details>
-<summary>🏆<h3><b>GitHub Trophies</b></h3></summary>
+<summary>🏆 <h3><b>GitHub Trophies</b></h3></summary>
 <br>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&row=2&no-bg=true" alt="Varsha's GitHub Trophies" />
+  </a>
 </p>
 </details>
-
 ---
 
 <details>
