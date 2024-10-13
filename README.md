@@ -141,14 +141,19 @@ me.say_hi()
 ---
 
 <details>
-<summary>🏆 <h3><b>GitHub Trophies</b></h3></summary>
+<summary>🏆 <h3><b>Exceptional GitHub Trophies Collection</b></h3></summary>
 <br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&row=2&no-bg=true" alt="Varsha's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4&row=3&rank=SSS,SS,S,AAA,AA,A,B,C&no-bg=true" alt="Varsha's Exceptional GitHub Trophies" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4&rank=SECRET" alt="Varsha's Secret Trophies" />
+</p>
 </details>
+
+
 ---
 
 <details>
