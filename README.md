@@ -151,10 +151,12 @@ me.say_hi()
 ---
 
 <details>
-<summary>🏆<h3><b>HactoberFest 2024</b></h3></summary>
+<summary>✨<h3><b>GitHub Trophies</b></h3></summary>
 <br>
 <p align="center">
- [![An image of @varsha1605's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varsha1605)](https://holopin.io/@varsha1605)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&row=2&no-bg=true" alt="Varsha's GitHub Trophies" />
+  </a>
 </p>
 </details>
 
