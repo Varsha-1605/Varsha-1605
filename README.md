@@ -150,6 +150,15 @@ me.say_hi()
 
 ---
 
+<details>
+<summary>🏆<h3><b>HactoberFest 2024</b></h3></summary>
+<br>
+<p align="center">
+ [![An image of @varsha1605's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/varsha1605)](https://holopin.io/@varsha1605)
+</p>
+</details>
+
+---
 
 <h2 align="center">💡 A Quote to Inspire</h2>
 <p align="center">
