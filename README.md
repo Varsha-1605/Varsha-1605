@@ -140,95 +140,13 @@ me.say_hi()
 
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Varsha's Exceptional Trophies</title>
-    <style>
-        .trophy-container {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 20px;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            padding: 30px;
-            border-radius: 15px;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-        }
-        .trophy {
-            background: rgba(255, 255, 255, 0.1);
-            backdrop-filter: blur(10px);
-            border-radius: 10px;
-            padding: 20px;
-            text-align: center;
-            transition: all 0.3s ease;
-            width: 120px;
-        }
-        .trophy:hover {
-            transform: translateY(-5px) scale(1.05);
-            box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
-        }
-        .trophy svg {
-            width: 60px;
-            height: 60px;
-            margin-bottom: 10px;
-            fill: none;
-            stroke: #ffd700;
-            stroke-width: 2;
-            stroke-linecap: round;
-            stroke-linejoin: round;
-        }
-        .trophy-name {
-            color: white;
-            font-weight: bold;
-            font-size: 14px;
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-    <div class="trophy-container">
-        <div class="trophy">
-            <svg viewBox="0 0 24 24">
-                <path d="M12 15C15.866 15 19 11.866 19 8V3H5V8C5 11.866 8.13401 15 12 15Z"/>
-                <path d="M12 15V21"/>
-                <path d="M9 21H15"/>
-            </svg>
-            <div class="trophy-name">Code Master</div>
-        </div>
-        <div class="trophy">
-            <svg viewBox="0 0 24 24">
-                <path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/>
-            </svg>
-            <div class="trophy-name">Star Contributor</div>
-        </div>
-        <div class="trophy">
-            <svg viewBox="0 0 24 24">
-                <circle cx="12" cy="12" r="10"/>
-                <polyline points="12 6 12 12 16 14"/>
-            </svg>
-            <div class="trophy-name">Consistent Coder</div>
-        </div>
-        <div class="trophy">
-            <svg viewBox="0 0 24 24">
-                <path d="M18 8C18 6.4087 17.3679 4.88258 16.2426 3.75736C15.1174 2.63214 13.5913 2 12 2C10.4087 2 8.88258 2.63214 7.75736 3.75736C6.63214 4.88258 6 6.4087 6 8C6 15 3 17 3 17H21C21 17 18 15 18 8Z"/>
-                <path d="M13.73 21C13.5542 21.3031 13.3019 21.5547 12.9982 21.7295C12.6946 21.9044 12.3504 21.9965 12 21.9965C11.6496 21.9965 11.3054 21.9044 11.0018 21.7295C10.6982 21.5547 10.4458 21.3031 10.27 21"/>
-            </svg>
-            <div class="trophy-name">Bug Hunter</div>
-        </div>
-        <div class="trophy">
-            <svg viewBox="0 0 24 24">
-                <path d="M12 2L2 7L12 12L22 7L12 2Z"/>
-                <path d="M2 17L12 22L22 17"/>
-                <path d="M2 12L12 17L22 12"/>
-            </svg>
-            <div class="trophy-name">AI Innovator</div>
-        </div>
-    </div>
-</body>
-</html>
+<details>
+<summary>🏆<h3><b>GitHub Trophies</b></h3></summary>
+<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=darkhub&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+</details>
 
 
 ---
