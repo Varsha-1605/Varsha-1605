@@ -1,170 +1,173 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=6CE4F7&vCenter=true&random=false&width=600&height=70&lines=Hi+there!+I'm+Varsha+%F0%9F%91%8B;AI+Engineer+%F0%9F%A4%96;Python+Enthusiast+%F0%9F%90%8D;Web+Dev+Wizard+%E2%9C%A8" alt="Typing SVG" />
-</h1>
-
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Varsha%20Dewangan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20Python%20Expert%20|%20Web%20Dev%20Wizard&descAlignY=55" width="100%">
 </div>
 
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
-<!-- Introduction with Animation -->
-<h3 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to my GitHub Universe!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Varsha-1605&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
-</p>
-
-<!-- Social Links with Animations -->
-<p align="center">
-  <a href="https://linkedin.com/in/varsha-dewangan-197983256" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&multiline=true&random=false&width=1200&height=120&lines=%F0%9F%91%8B+Welcome+to+my+Digital+Universe;%F0%9F%A4%96+Where+AI+Meets+Innovation;%F0%9F%8C%9F+Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
   </a>
-  <a href="mailto:varshadewangan1605@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</div>
+
+<div align="center">
+  
+  [![Sparkline](https://stars.medv.io/Varsha-1605/badges.svg)](https://stars.medv.io/Varsha-1605/badges)
+  
+</div>
+
+<p align="center">
+  <a href="https://linkedin.com/in/varsha-dewangan-197983256">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" height="35"/>
   </a>
-  <a href="https://www.instagram.com/varshadewangan454/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <a href="mailto:varshadewangan1605@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white&style=plastic" height="35"/>
   </a>
-  <a href="https://x.com/Vara_Dew?s=08" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://www.instagram.com/varshadewangan454/">
+    <img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&style=plastic" height="35"/>
+  </a>
+  <a href="https://x.com/Vara_Dew?s=08">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic" height="35"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/Varsha1605">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=coffee&logoColor=white&style=plastic" height="35"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<!-- About Me Section with Custom Animation -->
-<h2>
-  <img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="30">
-  Who am I?
-</h2>
-
+  <details>
+    <summary><h2>🎯 Quick Facts About Me</h2></summary>
+    <div align="left">
+      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+      
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class AIEngineer:
+class AIWizard:
     def __init__(self):
         self.name = "Varsha Dewangan"
-        self.role = "AI Engineer & Web Developer"
-        self.language_spoken = ["Hindi", "English"]
-        self.interests = ["AI/ML", "Web Development", "Open Source"]
-        self.current_focus = "Early Cancer Detection using AI"
-        self.coffee_count = 0
+        self.title = "AI Engineer & Full Stack Developer"
+        self.location = "India 🇮🇳"
+        self.availability = "Open to Collaborate"
         
-    def say_hi(self):
-        print("🎯 Thanks for dropping by! Let's build something amazing together!")
+    @property
+    def current_projects(self):
+        return {
+            "🔬 Research": "Early Cancer Detection using AI",
+            "🤖 Development": "Advanced RAG Systems",
+            "📚 Learning": "Large Language Models"
+        }
         
-    def get_daily_routine(self):
-        while self.coffee_count < 3:
-            self.coffee_count += 1
-            self.code()
-            self.learn()
-            self.innovate()
+    @property
+    def skills(self):
+        return [
+            "Machine Learning",
+            "Deep Learning",
+            "NLP & Computer Vision",
+            "Full Stack Development",
+            "DevOps & Cloud"
+        ]
+        
+    def daily_routine(self):
+        return "Code 💻 → Learn 📚 → Innovate 💡 → Repeat 🔄"
 
-me = AIEngineer()
-me.say_hi()
+me = AIWizard()
 ```
+    </div>
+  </details>
 
-<!-- Current Work Section -->
-<h2>
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  What I'm up to
-</h2>
+  <details>
+    <summary><h2>🛠️ Technologies & Tools</h2></summary>
+    <div>
+      <h3>🧠 AI/ML Stack</h3>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,selenium&theme=dark" />
+      <p>
+        <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square" />
+      </p>
 
-- 🔭 Leading development on **GenAI-based Early Cancer Detection**
-- 🌱 Mastering **Advanced AI techniques and RAG systems**
-- 👯 Open to collaborate on **Innovative Open Source Projects**
-- 💬 Ask me about **AI/ML, Web Development, Data Analysis**
-- ⚡ Fun fact: I debug with rubber ducks! 🦆
+      <h3>💻 Web Development</h3>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,django,flask,fastapi&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,graphql&theme=dark" />
 
-<!-- Tech Stack with Modern Layout -->
-<h2>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-  Tech Arsenal
-</h2>
+      <h3>🛠️ DevOps & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,azure&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=linux,bash,vim,vscode,postman&theme=dark" />
+    </div>
+  </details>
 
-<details open>
-<summary>Languages</summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
-</p>
-</details>
+  <details>
+    <summary><h2>📊 GitHub Analytics</h2></summary>
+    <div>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varsha-1605&theme=tokyonight" width="100%"/>
+      <p align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varsha-1605&theme=tokyonight" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varsha-1605&theme=tokyonight" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varsha-1605&theme=tokyonight" width="33%">
+      </p>
+    </div>
+  </details>
 
-<details open>
-<summary>AI/ML & Data Science</summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" />
-</p>
-</details>
+  <details>
+    <summary><h2>🌟 Featured Projects</h2></summary>
+    <div align="center">
+      <a href="https://github.com/Varsha-1605/Chatbot_2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Chatbot_2.0&theme=tokyonight&hide_border=true" />
+      </a>
+      <a href="https://github.com/Varsha-1605/Financial-Advisor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Financial-Advisor&theme=tokyonight&hide_border=true" />
+      </a>
+      <a href="https://github.com/Varsha-1605/Research-Analyst">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Research-Analyst&theme=tokyonight&hide_border=true" />
+      </a>
+      <a href="https://github.com/Varsha-1605/Document-Uploader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Document-Uploader&theme=tokyonight&hide_border=true" />
+      </a>
+    </div>
+  </details>
 
-<details open>
-<summary>Web Development</summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,flask,fastapi,mongodb,mysql" />
-</p>
-</details>
+  <details>
+    <summary><h2>🏆 Achievements</h2></summary>
+    <div align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+      
+      <h3>🎉 Hacktoberfest 2024</h3>
+      <a href="https://holopin.io/@varsha1605">
+        <img src="https://holopin.me/varsha1605" width="100%" />
+      </a>
 
-<!-- GitHub Stats with New Design -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  GitHub Stats
-</h2>
+      <h3>🌟 GSSOC'24 Badges</h3>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" />
+        <img src="https://github.com/GSSoC24/Hack-Web3Conf/blob/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" />
+        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" />
+      </p>
+    </div>
+  </details>
 
-<p align="center">
-<a href="https://github.com/Varsha-1605">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Varsha-1605&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Varsha-1605&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-<!-- Featured Projects with Cards -->
-<h2>
-  <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8Gld/giphy.gif" width="30">
-  Featured Projects
-</h2>
-
-<div align="center">
-<a href="https://github.com/Varsha-1605/Chatbot_2.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Chatbot_2.0&theme=algolia" />
-</a>
-<a href="https://github.com/Varsha-1605/Financial-Advisor">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Financial-Advisor&theme=algolia" />
-</a>
+  <details>
+    <summary><h2>📈 Contribution Graph</h2></summary>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-1605&custom_title=Varsha's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's Github Activity Graph" width="100%">
+  </details>
 </div>
 
-<!-- Contribution Graph -->
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  Contribution Graph
-</h2>
+<!-- Animated Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-[![Varsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Varsha-1605&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Inspiring Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+</div>
 
-<!-- Support Section -->
-<h2 align="center">☕ Support My Work</h2>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/Varsha1605" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px">
-  </a>
-</p>
+<!-- Profile Views Counter -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Varsha-1605&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
 
 <!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling" width="100%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Connect%20and%20Create%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
