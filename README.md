@@ -32,6 +32,9 @@
   </a>
 </p>
 
+![GitHub Metrics](./github-metrics.svg)
+
+
 <div align="center">
   <details>
     <summary><h2>🎯 Quick Facts About Me</h2></summary>
