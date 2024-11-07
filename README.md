@@ -72,6 +72,57 @@ me = AIWizard()
     </div>
   </details>
 
+
+  <details>
+    <summary><h2>🏅 Honors & Awards</h2></summary>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <h3>🏆 Hack4Change 2024 Finalist (Top 0.7%)</h3>
+            <p><em>Issued by Google and The Nudge Institute · Aug 2024</em></p>
+            <ul>
+              <li>Selected as a finalist in the Google & The/Nudge co-hosted competition</li>
+              <li>Recognized for innovative solutions in financial inclusion</li>
+            </ul>
+          </td>
+          <td>
+            <h3>💡 Mathack 2.0 (Top 35 Teams)</h3>
+            <p><em>Issued by Talentfarm.ai and Government of Telangana · Sep 2024</em></p>
+            <ul>
+              <li>Advanced to the finals of a national-level hackathon</li>
+              <li>Showcased exceptional problem-solving skills</li>
+            </ul>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <h3>🎓 100% Scholarship - Kalinga University</h3>
+            <p><em>Issued by Kalinga University · Oct 2022</em></p>
+            <ul>
+              <li>Full scholarship for 4-year B.Tech degree</li>
+              <li>Awarded for achieving state topper status in Chhattisgarh</li>
+            </ul>
+          </td>
+          <td>
+            <h3>📺 IBC24 Swarn Sharda Scholarship 2022</h3>
+            <p><em>Issued by IBC24 NEWS · Jul 2022</em></p>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2">
+            <h3>🌟 Academic Excellence</h3>
+            <ul>
+              <li><strong>Chhattisgarh State Topper (Rank 10)</strong> - CGBSE Board Examination 2022</li>
+              <li><strong>1st Rank in Raipur District</strong> - Chhattisgarh Board of Secondary Education</li>
+              <li>Associated with Shishu Niketan English Medium Higher Secondary School</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </details>
+
   <details>
     <summary><h2>🛠️ Technologies & Tools</h2></summary>
     <div>
