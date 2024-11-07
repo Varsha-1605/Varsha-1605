@@ -19,6 +19,18 @@
 </p>
 
 
+## Table of Contents
+- [About Me](#about-me)
+- [Tech Stack](#tech-stack)
+- [Current Projects](#current-projects)
+- [GitHub Stats](#github-stats)
+- [GitHub Trophies](#github-trophies)
+- [Hacktoberfest 2024](#hacktoberfest-2024)
+- [GSSOC(24) Extended Badges](#gssoc24-extended-badges)
+- [A Quote to Inspire](#a-quote-to-inspire)
+- [Support My Work](#support-my-work)
+- [License](#license)
+
 
 <summary>🚀 <h3><b>About Me</b></h3></summary>
 <br>
