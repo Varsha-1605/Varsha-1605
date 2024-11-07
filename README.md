@@ -51,49 +51,38 @@
 
 ---
 
-## About Me
-Hi! I'm Varsha Dewangan, an AI/ML Engineer with a passion for developing innovative solutions. I specialize in Python and have extensive experience in web development. I'm always eager to collaborate on exciting projects.
 
-## Skills
-- **Programming Languages:** Python, JavaScript, TypeScript
-- **Frameworks & Libraries:** TensorFlow, PyTorch, React, Node.js, Express.js
-- **Tools & Platforms:** Git, Docker, Kubernetes
-- **Technologies:** Machine Learning, Deep Learning, NLP, Computer Vision
-
----
 
 <div align="left">
    <details>
     <summary><h2>🎯 Quick Facts About Me</h2></summary>
 
 ```python
-class AIWizard:
+class VarshaDewangan:
     def __init__(self):
-        self.name = "Varsha Dewangan"
-        self.title = "AI and ML Engineer"
-        self.location = "India 🇮🇳"
-        self.availability = "Open to Collaborate"
+        self.role = "AI Engineer & Web Developer"
+        self.language_spoken = ["Hindi", "English"]
+        self.skills = ["Python", "Machine Learning", "Web Development", "Data Analysis"]
+        self.current_focus = "Early Cancer Detection using AI"
         
-    @property
-    def current_projects(self):
-        return {
-            "🔬 Research": "Early Cancer Detection using AI",
-            "🤖 Development": "Advanced RAG Systems",
-            "📚 Learning": "Large Language Models"
-        }
-        
-    @property
-    def skills(self):
-        return [
-            "Machine Learning",
-            "Deep Learning",
-            "NLP & Computer Vision"
-        ]
-        
-    def daily_routine(self):
-        return "Code 💻 → Learn 📚 → Innovate 💡 → Repeat 🔄"
+    def say_hi(self):
+        print("🌟 Thanks for dropping by! I'm passionate about leveraging AI to solve real-world problems.")
 
-me = AIWizard()
+me = VarshaDewangan()
+me.say_hi()
+
+```
+
+- 🔭 I'm currently working on **GenAI-based Early Cancer Detection**
+- 🌱 I'm currently learning **Advanced AI techniques and RAG systems**
+- 👯 I'm looking to collaborate on **Innovative Open Source Projects**
+- 💬 Ask me about **AI/ML, Web Development, and Data Analysis**
+- ⚡ Fun fact: I can turn coffee into code and data into insights!
+
+
+
+---
+
 ```
 </div>
 </details>
