@@ -71,7 +71,7 @@ me.say_hi()
 
 ```
 
-- 🔭 I'm currently working on **GenAI-based Early Cancer Detection**
+
 - 🌱 I'm currently learning **Advanced AI techniques and RAG systems**
 - 👯 I'm looking to collaborate on **Innovative Open Source Projects**
 - 💬 Ask me about **AI/ML, Web Development, and Data Analysis**
