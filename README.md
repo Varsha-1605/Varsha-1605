@@ -292,6 +292,5 @@ me.say_hi()
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Varsha-1605&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
-
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&text=Let's%20Connect%20and%20Create%20Something%20Amazing!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
