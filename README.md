@@ -54,8 +54,8 @@
 
 
 <div align="left">
-   <details>
-    <summary><h2>🎯 Quick Facts About Me</h2></summary>
+   
+  <summary><h2>🎯 Quick Facts About Me</h2></summary>
 
 ```python
 class VarshaDewangan:
@@ -84,7 +84,7 @@ me.say_hi()
 ---
 
 </div>
-</details>
+
     
  
 
