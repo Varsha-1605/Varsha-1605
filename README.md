@@ -54,7 +54,7 @@
 
 ---
 
-<div align="right">
+<div align="left">
    <details>
     <summary><h2>🎯 Quick Facts About Me</h2></summary>
     
