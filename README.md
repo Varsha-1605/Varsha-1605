@@ -202,26 +202,22 @@ me = AIWizard()
  
 
 <details>
-  <summary><h2>🌟 Featured Projects</h2></summary>
-  <div align="center">
-    <a href="https://github.com/Varsha-1605/Chatbot_2.0">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Chatbot_2.0&theme=tokyonight&hide_border=true" />
-      <p>Chatbot 2.0 is a conversational AI assistant that can engage in natural language conversations, answer questions, and help with a variety of tasks. It uses advanced language models and natural language processing techniques to provide a seamless user experience.</p>
-    </a>
-    <a href="https://github.com/Varsha-1605/Financial-Advisor">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Financial-Advisor&theme=tokyonight&hide_border=true" />
-      <p>The Financial Advisor is a web application that provides personalized financial planning and investment recommendations. It analyzes the user's financial situation, goals, and risk tolerance to suggest the best strategies for building wealth and achieving financial stability.</p>
-    </a>
-    <a href="https://github.com/Varsha-1605/Research-Analyst">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Research-Analyst&theme=tokyonight&hide_border=true" />
-      <p>The Research Analyst is a tool designed to assist with data analysis and research. It includes features such as data visualization, statistical analysis, and report generation to help users gain insights from complex datasets and make informed decisions.</p>
-    </a>
-    <a href="https://github.com/Varsha-1605/Document-Uploader">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Document-Uploader&theme=tokyonight&hide_border=true" />
-      <p>The Document Uploader is a simple web application that allows users to upload and manage various types of documents. It provides secure storage, version control, and sharing capabilities to facilitate collaboration and organization of important files.</p>
-    </a>
-  </div>
-</details>
+    <summary><h2>🌟 Featured Projects</h2></summary>
+    <div align="center">
+      <a href="https://github.com/Varsha-1605/Chatbot_2.0">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Chatbot_2.0&theme=tokyonight&hide_border=true" />
+      </a>
+      <a href="https://github.com/Varsha-1605/Financial-Advisor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Financial-Advisor&theme=tokyonight&hide_border=true" />
+      </a>
+      <a href="https://github.com/Varsha-1605/Research-Analyst">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Research-Analyst&theme=tokyonight&hide_border=true" />
+      </a>
+      <a href="https://github.com/Varsha-1605/Document-Uploader">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Document-Uploader&theme=tokyonight&hide_border=true" />
+      </a>
+    </div>
+  </details>
 
   <details>
     <summary><h2>🏆 Achievements</h2></summary>
