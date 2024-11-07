@@ -50,15 +50,13 @@
 - [Hacktoberfest 2024](#-hacktoberfest-2024)
 - [GSSOC'24 Extended Badges](#-gssoc24-extended-badges)
 - [Contribution Graph](#-contribution-graph)
-- [Inspiring Quote](#inspiring-quote)
-- [Profile Views Counter](#profile-views-counter)
-- [Let's Connect and Create Something Amazing!](#lets-connect-and-create-something-amazing)
+
 
 
 ---
 
 <div align="left">
-   <details>
+   #<details>
     <summary><h2>🎯 Quick Facts About Me</h2></summary>
     
       
@@ -92,7 +90,7 @@ class AIWizard:
 me = AIWizard()
 ```
 </div>
- </details>
+# </details>
     
  
 
