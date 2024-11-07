@@ -34,10 +34,10 @@
 
 
 ## Table of Contents
+<div align="left">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
 
-    <div align="left">
-    <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-    </div>
 - [Quick Facts About Me](#-quick-facts-about-me)
 - [Honors & Awards](#-honors--awards)
 - [Technologies & Tools](#️-technologies--tools)
