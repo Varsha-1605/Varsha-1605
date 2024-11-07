@@ -10,7 +10,8 @@
 
 <div align="center">
   
-  [![Sparkline](https://stars.medv.io/Varsha-1605/badges.svg)](https://stars.medv.io/Varsha-1605/badges)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Varsha-1605&show_icons=true&theme=radical&hide=contribs,issues&line_height=20&hide_title=true)
+
   
 </div>
 
