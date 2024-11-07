@@ -199,6 +199,11 @@ me = AIWizard()
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-1605&custom_title=Varsha's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's Github Activity Graph" width="100%">
 </details>
 
+<!-- Additional Achievement Badges -->
+<h3 align="center">🏆 Recent Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy"/>
+</p>
 <!-- Animated Snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
