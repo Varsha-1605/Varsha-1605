@@ -244,51 +244,52 @@ me = AIWizard()
 
  <details>
       <!-- GSSOC'24 Badges with Alternative Display -->
-<summary> <h3 align="center">🌟 GSSOC'24 Extended Badges</h3></summary>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://github.com/GSSoC24/Hack-Web3Conf/raw/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Web3Conf Badge"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Badge 3"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Badge 4"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Badge 5"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Badge 6"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" alt="Git Explorer"/>
-      </td>
-      <td align="center">
-        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" alt="Pull Expert"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
+    <summary> <h3 align="center">🌟 GSSOC'24 Extended Badges</h3></summary>
+    <div align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://github.com/GSSoC24/Hack-Web3Conf/raw/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Web3Conf Badge"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Badge 3"/>
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Badge 4"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Badge 5"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Badge 6"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" alt="Git Explorer"/>
+          </td>
+          <td align="center">
+            <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" alt="Pull Expert"/>
+          </td>
+        </tr>
+      </table>
+    </div>
   </details>
 
   <details>
     <summary><h2>📈 Contribution Graph</h2></summary>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-1605&custom_title=Varsha's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's Github Activity Graph" width="100%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha- 
+      1605&custom_title=Varsha's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's 
+      Github Activity Graph" width="100%">
 </details>
 
 
