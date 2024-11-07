@@ -15,23 +15,6 @@
   
 </div>
 
-## Introduction
-Hi, I'm Varsha Dewangan, an AI Engineer and Full Stack Developer. This repository contains the configuration files for my GitHub profile.
-
-## Table of Contents
-- [Quick Facts About Me](#quick-facts-about-me)
-- [Honors & Awards](#honors--awards)
-- [Technologies & Tools](#technologies--tools)
-- [GitHub Analytics](#github-analytics)
-- [Featured Projects](#featured-projects)
-- [Achievements](#achievements)
-- [Hacktoberfest 2024](#hacktoberfest-2024)
-- [GSSOC'24 Extended Badges](#gssoc24-extended-badges)
-- [Contribution Graph](#contribution-graph)
-- [Inspiring Quote](#inspiring-quote)
-- [Profile Views Counter](#profile-views-counter)
-- [Let's Connect and Create Something Amazing!](#lets-connect-and-create-something-amazing)
-
 
 <p align="center">
   <a href="https://linkedin.com/in/varsha-dewangan-197983256">
@@ -50,6 +33,23 @@ Hi, I'm Varsha Dewangan, an AI Engineer and Full Stack Developer. This repositor
     <img src="https://custom-icon-badges.demolab.com/badge/-Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=coffee&logoColor=white&style=plastic" height="35"/>
   </a>
 </p>
+
+## Introduction
+Hi, I'm Varsha Dewangan, an AI Engineer and Full Stack Developer. This repository contains the configuration files for my GitHub profile.
+
+## Table of Contents
+- [Quick Facts About Me](#quick-facts-about-me)
+- [Honors & Awards](#honors--awards)
+- [Technologies & Tools](#technologies--tools)
+- [GitHub Analytics](#github-analytics)
+- [Featured Projects](#featured-projects)
+- [Achievements](#achievements)
+- [Hacktoberfest 2024](#hacktoberfest-2024)
+- [GSSOC'24 Extended Badges](#gssoc24-extended-badges)
+- [Contribution Graph](#contribution-graph)
+- [Inspiring Quote](#inspiring-quote)
+- [Profile Views Counter](#profile-views-counter)
+- [Let's Connect and Create Something Amazing!](#lets-connect-and-create-something-amazing)
 
 
 
