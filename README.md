@@ -293,6 +293,7 @@ me = AIWizard()
 
 
 <!-- Inspiring Quote -->
+<summary> <h2>🌟 Inspiring Quote</h2></summary>
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 </div>
