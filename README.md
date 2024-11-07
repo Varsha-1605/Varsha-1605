@@ -280,11 +280,11 @@ me = AIWizard()
     </div>
   </details>
 
-  <details>
-    <summary><h2>📈 Contribution Graph</h2></summary>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha- 
-      1605&custom_title=Varsha's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's 
-      Github Activity Graph" width="100%">
+<details>
+<summary><h2>📈 Contribution Graph</h2></summary>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha- 
+1605&custom_title=Varsha's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's 
+Github Activity Graph" width="100%">
 </details>
 
 
