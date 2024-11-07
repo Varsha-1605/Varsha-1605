@@ -37,19 +37,18 @@
 Hi, I'm Varsha Dewangan, an AI Engineer and Full Stack Developer. This repository contains the configuration files for my GitHub profile.
 
 ## Table of Contents
-- [Quick Facts About Me](#quick-facts-about-me)
-- [Honors & Awards](#honors--awards)
-- [Technologies & Tools](#technologies--tools)
-- [GitHub Analytics](#github-analytics)
-- [Featured Projects](#featured-projects)
-- [Achievements](#achievements)
-- [Hacktoberfest 2024](#hacktoberfest-2024)
-- [GSSOC'24 Extended Badges](#gssoc24-extended-badges)
-- [Contribution Graph](#contribution-graph)
+- [Quick Facts About Me](#-quick-facts-about-me)
+- [Honors & Awards](#-honors--awards)
+- [Technologies & Tools](#️-technologies--tools)
+- [GitHub Analytics](#-github-analytics)
+- [Featured Projects](#-featured-projects)
+- [Achievements](#-achievements)
+- [Hacktoberfest 2024](#-hacktoberfest-2024)
+- [GSSOC'24 Extended Badges](#-gssoc24-extended-badges)
+- [Contribution Graph](#-contribution-graph)
 - [Inspiring Quote](#inspiring-quote)
 - [Profile Views Counter](#profile-views-counter)
 - [Let's Connect and Create Something Amazing!](#lets-connect-and-create-something-amazing)
-
 
 
 <div align="center">
