@@ -32,7 +32,6 @@
   </a>
 </p>
 
-![GitHub Metrics](./github-metrics.svg)
 
 
 <div align="center">
