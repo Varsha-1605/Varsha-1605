@@ -35,6 +35,8 @@
 
 
 ## Table of Contents
+<div align="left">
+      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 - [Quick Facts About Me](#-quick-facts-about-me)
 - [Honors & Awards](#-honors--awards)
 - [Technologies & Tools](#️-technologies--tools)
@@ -53,8 +55,7 @@
 <div align="center">
    <details>
     <summary><h2>🎯 Quick Facts About Me</h2></summary>
-    <div align="left">
-      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    
       
 ```python
 class AIWizard:
