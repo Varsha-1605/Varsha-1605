@@ -41,6 +41,9 @@
 - [Quick Facts About Me](#-quick-facts-about-me)
 - [Honors & Awards](#-honors--awards)
 - [Technologies & Tools](#️-technologies--tools)
+  <div align="left">
+      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
 - [GitHub Analytics](#-github-analytics)
 - [Featured Projects](#-featured-projects)
 - [Achievements](#-achievements)
@@ -51,9 +54,7 @@
 - [Profile Views Counter](#profile-views-counter)
 - [Let's Connect and Create Something Amazing!](#lets-connect-and-create-something-amazing)
 
-<div align="left">
-      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
+
 ---
 
 <div align="left">
