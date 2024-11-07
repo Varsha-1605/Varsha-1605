@@ -10,7 +10,6 @@
 
 <div align="center">
   
-  [![Sparkline](https://stars.medv.io/Varsha-1605/badges.svg)](https://stars.medv.io/Varsha-1605/badges)
 
   
 </div>
