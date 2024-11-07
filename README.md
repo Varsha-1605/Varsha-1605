@@ -33,8 +33,6 @@
   </a>
 </p>
 
-## Introduction
-Hi, I'm Varsha Dewangan, an AI Engineer and Full Stack Developer. This repository contains the configuration files for my GitHub profile.
 
 ## Table of Contents
 - [Quick Facts About Me](#-quick-facts-about-me)
