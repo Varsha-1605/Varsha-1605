@@ -233,7 +233,7 @@ me.say_hi()
 
 
 
-    <!-- GSSOC'24 Badges with Alternative Display -->
+
   <summary> <h3 align="center">🌟 GSSOC'24 Extended Badges</h3></summary>
   <div align="center">
     <table>
