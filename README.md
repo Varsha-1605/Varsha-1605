@@ -41,11 +41,11 @@
 - [Quick Facts About Me](#-quick-facts-about-me)
 - [Honors & Awards](#-honors--awards)
 - [Technologies & Tools](#️-technologies--tools)
-  <div align="left">
-      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-  </div>
 - [GitHub Analytics](#-github-analytics)
 - [Featured Projects](#-featured-projects)
+    <div align="left">
+      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+    </div>
 - [Achievements](#-achievements)
 - [Hacktoberfest 2024](#-hacktoberfest-2024)
 - [GSSOC'24 Extended Badges](#-gssoc24-extended-badges)
@@ -193,15 +193,15 @@ me = AIWizard()
   </details>
 
  
-    <summary><h2>📊 GitHub Analytics</h2></summary>
-    <div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varsha-1605&theme=tokyonight" width="100%"/>
-      <p align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varsha-1605&theme=tokyonight" width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varsha-1605&theme=tokyonight" width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varsha-1605&theme=tokyonight" width="33%">
-      </p>
-    </div>
+<summary><h2>📊 GitHub Analytics</h2></summary>
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varsha-1605&theme=tokyonight" width="100%"/>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Varsha-1605&theme=tokyonight" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Varsha-1605&theme=tokyonight" width="33%">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varsha-1605&theme=tokyonight" width="33%">
+  </p>
+</div>
  
 
   <details>
