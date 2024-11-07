@@ -179,6 +179,8 @@ me.say_hi()
 </div>
 </details>
 
+---
+
 <h2 align="center">💡 A Quote to Inspire</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
