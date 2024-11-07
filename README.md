@@ -134,15 +134,24 @@ me = AIWizard()
 
   <details>
     <summary><h2>🏆 Achievements</h2></summary>
+      <div align="center">
+         <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+      </div>
+  </details>
+<!-- Hacktoberfest Section with Direct Image Links -->
+  <details>
+    <summary><h2 align="center">🎉 Hacktoberfest 2024</h2></summary>
     <div align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-      
-      <h3>🎉 Hacktoberfest 2024</h3>
       <a href="https://holopin.io/@varsha1605">
-        <img src="https://holopin.me/varsha1605" width="100%" />
+        <img src="https://holopin.io/api/user/board?user=varsha1605" alt="Holopin Board"/>
       </a>
+    </div>
+  </details>
+  
 
-      <h3>🌟 GSSOC'24 Badges</h3>
+
+ <details>
+  <summary> <h2>🌟 GSSOC'24 Badges</h2></summary>
       <p align="center">
         <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" />
         <img src="https://github.com/GSSoC24/Hack-Web3Conf/blob/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" />
@@ -150,14 +159,12 @@ me = AIWizard()
         <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" />
         <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" />
       </p>
-    </div>
   </details>
 
   <details>
     <summary><h2>📈 Contribution Graph</h2></summary>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-1605&custom_title=Varsha's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's Github Activity Graph" width="100%">
-  </details>
-</div>
+</details>
 
 <!-- Animated Snake -->
 <picture>
