@@ -151,14 +151,47 @@ me = AIWizard()
 
 
  <details>
-  <summary> <h2>🌟 GSSOC'24 Badges</h2></summary>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="80px" />
-        <img src="https://github.com/GSSoC24/Hack-Web3Conf/blob/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="80px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px" />
-        <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px" />
-      </p>
+      <!-- GSSOC'24 Badges with Alternative Display -->
+<summary> <h3 align="center">🌟 GSSOC'24 Extended Badges</h3></summary>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://github.com/GSSoC24/Hack-Web3Conf/raw/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Web3Conf Badge"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Badge 3"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Badge 4"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Badge 5"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Badge 6"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" alt="Git Explorer"/>
+      </td>
+      <td align="center">
+        <img width="100" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" alt="Pull Expert"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
   </details>
 
   <details>
