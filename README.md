@@ -63,7 +63,7 @@ Hi, I'm Varsha Dewangan, an AI Engineer and Full Stack Developer. This repositor
 class AIWizard:
     def __init__(self):
         self.name = "Varsha Dewangan"
-        self.title = "AI Engineer & Full Stack Developer"
+        self.title = "AI and ML Engineer"
         self.location = "India 🇮🇳"
         self.availability = "Open to Collaborate"
         
@@ -80,9 +80,7 @@ class AIWizard:
         return [
             "Machine Learning",
             "Deep Learning",
-            "NLP & Computer Vision",
-            "Full Stack Development",
-            "DevOps & Cloud"
+            "NLP & Computer Vision"
         ]
         
     def daily_routine(self):
@@ -90,8 +88,9 @@ class AIWizard:
 
 me = AIWizard()
 ```
+</div>
  </details>
-    </div>
+    
  
 
 
