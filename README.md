@@ -19,7 +19,7 @@
 </p>
 
 
-<details>
+
 <summary>🚀 <h3><b>About Me</b></h3></summary>
 <br>
 
@@ -45,7 +45,7 @@ me.say_hi()
 - 💬 Ask me about **AI/ML, Web Development, and Data Analysis**
 - ⚡ Fun fact: I can turn coffee into code and data into insights!
 
-</details>
+
 
 ---
 
