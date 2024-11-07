@@ -117,7 +117,7 @@ me = AIWizard()
             <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
               <h3>📺 IBC24 Swarn Sharda Scholarship</h3>
               <p align="center"><kbd>2022</kbd></p>
-              <p><em>Issued by <img src="https://img.shields.io/badge/IBC24_NEWS-FF0000?style=flat&logo=tv&logoColor=white"/> · Jul 2022</em></p>
+              <p><em>Issued by <img src="https://img.shields.io/badge/IBC24_NEWS-FF0000?style=flat&logo=tv&logoColor=white"/> </em></p>
             </div>
           </td>
         </tr>
