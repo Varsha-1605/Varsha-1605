@@ -32,12 +32,13 @@
 
 
 
-
 ## Table of Contents
 <div align="left">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
 
+- [About Me](#-about-me)
+- [Skills](#-skills)
 - [Quick Facts About Me](#-quick-facts-about-me)
 - [Honors & Awards](#-honors--awards)
 - [Technologies & Tools](#️-technologies--tools)
@@ -48,15 +49,23 @@
 - [GSSOC'24 Extended Badges](#-gssoc24-extended-badges)
 - [Contribution Graph](#-contribution-graph)
 
+---
 
+## About Me
+Hi! I'm Varsha Dewangan, an AI/ML Engineer with a passion for developing innovative solutions. I specialize in Python and have extensive experience in web development. I'm always eager to collaborate on exciting projects.
+
+## Skills
+- **Programming Languages:** Python, JavaScript, TypeScript
+- **Frameworks & Libraries:** TensorFlow, PyTorch, React, Node.js, Express.js
+- **Tools & Platforms:** Git, Docker, Kubernetes
+- **Technologies:** Machine Learning, Deep Learning, NLP, Computer Vision
 
 ---
 
 <div align="left">
    <details>
     <summary><h2>🎯 Quick Facts About Me</h2></summary>
-    
-      
+
 ```python
 class AIWizard:
     def __init__(self):
