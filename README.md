@@ -34,9 +34,7 @@
 </p>
 
 
-<div align="left">
-      <img align="right" alt="Coding" width="400" margin-top = "50px" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</div>
+
 
 ## Table of Contents
 
@@ -53,6 +51,9 @@
 - [Profile Views Counter](#profile-views-counter)
 - [Let's Connect and Create Something Amazing!](#lets-connect-and-create-something-amazing)
 
+<div align="left">
+      <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</div>
 ---
 
 <div align="left">
