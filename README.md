@@ -82,7 +82,7 @@ me = AIWizard()
             <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
               <h3>🏆 Hack4Change 2024 Finalist</h3>
               <p align="center"><kbd>Top 0.7%</kbd></p>
-              <p><em>Issued by <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white"/> & The Nudge Institute · Aug 2024</em></p>
+              <p><em>Issued by <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white"/> & The Nudge Institute </em></p>
               <ul align="left">
                 <li>Selected as a finalist in the Google & The/Nudge co-hosted competition</li>
                 <li>Recognized for innovative solutions in financial inclusion</li>
@@ -93,7 +93,7 @@ me = AIWizard()
             <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
               <h3>💡 Mathack 2.0</h3>
               <p align="center"><kbd>Top 35 Teams</kbd></p>
-              <p><em>Issued by Talentfarm.ai & <img src="https://img.shields.io/badge/Telangana_Govt-FF6B6B?style=flat"/> · Sep 2024</em></p>
+              <p><em>Issued by Talentfarm.ai & <img src="https://img.shields.io/badge/Telangana_Govt-FF6B6B?style=flat"/></em></p>
               <ul align="left">
                 <li>Advanced to the finals of a national-level hackathon</li>
                 <li>Showcased exceptional problem-solving skills</li>
@@ -106,7 +106,7 @@ me = AIWizard()
             <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
               <h3>🎓 100% Scholarship</h3>
               <p align="center"><img src="https://img.shields.io/badge/Kalinga_University-2B2D42?style=for-the-badge"/></p>
-              <p><em>Issued by Kalinga University · Oct 2022</em></p>
+              <p><em>Issued by Kalinga University </em></p>
               <ul align="left">
                 <li>Full scholarship for 4-year B.Tech degree</li>
                 <li>Awarded for achieving state topper status in Chhattisgarh</li>
