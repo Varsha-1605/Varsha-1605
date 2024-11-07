@@ -78,51 +78,68 @@ me = AIWizard()
     <div align="center">
       <table>
         <tr>
-          <td>
-            <h3>🏆 Hack4Change 2024 Finalist (Top 0.7%)</h3>
-            <p><em>Issued by Google and The Nudge Institute · Aug 2024</em></p>
-            <ul>
-              <li>Selected as a finalist in the Google & The/Nudge co-hosted competition</li>
-              <li>Recognized for innovative solutions in financial inclusion</li>
-            </ul>
+          <td width="50%" align="center">
+            <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+              <h3>🏆 Hack4Change 2024 Finalist</h3>
+              <p align="center"><kbd>Top 0.7%</kbd></p>
+              <p><em>Issued by <img src="https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white"/> & The Nudge Institute · Aug 2024</em></p>
+              <ul align="left">
+                <li>Selected as a finalist in the Google & The/Nudge co-hosted competition</li>
+                <li>Recognized for innovative solutions in financial inclusion</li>
+              </ul>
+            </div>
           </td>
-          <td>
-            <h3>💡 Mathack 2.0 (Top 35 Teams)</h3>
-            <p><em>Issued by Talentfarm.ai and Government of Telangana · Sep 2024</em></p>
-            <ul>
-              <li>Advanced to the finals of a national-level hackathon</li>
-              <li>Showcased exceptional problem-solving skills</li>
-            </ul>
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <h3>🎓 100% Scholarship - Kalinga University</h3>
-            <p><em>Issued by Kalinga University · Oct 2022</em></p>
-            <ul>
-              <li>Full scholarship for 4-year B.Tech degree</li>
-              <li>Awarded for achieving state topper status in Chhattisgarh</li>
-            </ul>
-          </td>
-          <td>
-            <h3>📺 IBC24 Swarn Sharda Scholarship 2022</h3>
-            <p><em>Issued by IBC24 NEWS · Jul 2022</em></p>
+          <td width="50%" align="center">
+            <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+              <h3>💡 Mathack 2.0</h3>
+              <p align="center"><kbd>Top 35 Teams</kbd></p>
+              <p><em>Issued by Talentfarm.ai & <img src="https://img.shields.io/badge/Telangana_Govt-FF6B6B?style=flat"/> · Sep 2024</em></p>
+              <ul align="left">
+                <li>Advanced to the finals of a national-level hackathon</li>
+                <li>Showcased exceptional problem-solving skills</li>
+              </ul>
+            </div>
           </td>
         </tr>
         <tr>
-          <td colspan="2">
-            <h3>🌟 Academic Excellence</h3>
-            <ul>
-              <li><strong>Chhattisgarh State Topper (Rank 10)</strong> - CGBSE Board Examination 2022</li>
-              <li><strong>1st Rank in Raipur District</strong> - Chhattisgarh Board of Secondary Education</li>
-              <li>Associated with Shishu Niketan English Medium Higher Secondary School</li>
-            </ul>
+          <td align="center">
+            <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+              <h3>🎓 100% Scholarship</h3>
+              <p align="center"><img src="https://img.shields.io/badge/Kalinga_University-2B2D42?style=for-the-badge"/></p>
+              <p><em>Issued by Kalinga University · Oct 2022</em></p>
+              <ul align="left">
+                <li>Full scholarship for 4-year B.Tech degree</li>
+                <li>Awarded for achieving state topper status in Chhattisgarh</li>
+              </ul>
+            </div>
+          </td>
+          <td align="center">
+            <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+              <h3>📺 IBC24 Swarn Sharda Scholarship</h3>
+              <p align="center"><kbd>2022</kbd></p>
+              <p><em>Issued by <img src="https://img.shields.io/badge/IBC24_NEWS-FF0000?style=flat&logo=tv&logoColor=white"/> · Jul 2022</em></p>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td colspan="2" align="center">
+            <div style="background: linear-gradient(45deg, #1a1b27, #24292e); border-radius: 16px; padding: 20px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+              <h3>🌟 Academic Excellence</h3>
+              <p align="center">
+                <img src="https://img.shields.io/badge/State_Rank-10th-FFD700?style=for-the-badge"/>
+                <img src="https://img.shields.io/badge/District_Rank-1st-FFD700?style=for-the-badge"/>
+              </p>
+              <ul align="left">
+                <li><strong>Chhattisgarh State Topper (Rank 10)</strong> - CGBSE Board Examination 2022</li>
+                <li><strong>1st Rank in Raipur District</strong> - Chhattisgarh Board of Secondary Education</li>
+                <li>Associated with Shishu Niketan English Medium Higher Secondary School</li>
+              </ul>
+            </div>
           </td>
         </tr>
       </table>
     </div>
   </details>
-
   <details>
     <summary><h2>🛠️ Technologies & Tools</h2></summary>
     <div>
