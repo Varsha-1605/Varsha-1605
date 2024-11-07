@@ -56,7 +56,7 @@
 ---
 
 <div align="left">
-   #<details>
+   <details>
     <summary><h2>🎯 Quick Facts About Me</h2></summary>
     
       
@@ -90,7 +90,7 @@ class AIWizard:
 me = AIWizard()
 ```
 </div>
-# </details>
+</details>
     
  
 
@@ -192,7 +192,7 @@ me = AIWizard()
 </p>
   </details>
 
-  <details>
+ 
     <summary><h2>📊 GitHub Analytics</h2></summary>
     <div>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Varsha-1605&theme=tokyonight" width="100%"/>
@@ -202,7 +202,7 @@ me = AIWizard()
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Varsha-1605&theme=tokyonight" width="33%">
       </p>
     </div>
-  </details>
+ 
 
   <details>
     <summary><h2>🌟 Featured Projects</h2></summary>
