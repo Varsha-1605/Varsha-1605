@@ -48,6 +48,7 @@
 - [Profile Views Counter](#profile-views-counter)
 - [Let's Connect and Create Something Amazing!](#lets-connect-and-create-something-amazing)
 
+---
 
 <div align="center">
    <details>
