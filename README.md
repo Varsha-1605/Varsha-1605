@@ -195,8 +195,8 @@ me.say_hi()
 <details>
     <summary><h2>🌟 Featured Projects</h2></summary>
     <div align="center">
-      <a href="https://github.com/Varsha-1605/Chatbot_2.0">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Chatbot_2.0&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/Varsha-1605/SocioSell">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=SocioSell&theme=tokyonight&hide_border=true" />
       </a>
       <a href="https://github.com/Varsha-1605/Financial-Advisor">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Financial-Advisor&theme=tokyonight&hide_border=true" />
