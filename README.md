@@ -210,12 +210,17 @@ me.say_hi()
     </div>
   </details>
 
-  <details>
+<details>
     <summary><h2>🏆 Achievements</h2></summary>
-      <div align="center">
-         <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-      </div>
-  </details>
+    <div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" width="100%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&column=4&margin-w=15&margin-h=15" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&title=MultiLanguage,Stars,Commits,PullRequest,Issues,Repositories&column=3&margin-w=15&margin-h=15" />
+    </div>
+</details>
+
+
+
 <!-- Hacktoberfest Section with Direct Image Links -->
 
   <summary><h2 align="center">🎉 Hacktoberfest 2024</h2></summary>
