@@ -25,6 +25,9 @@
   <a href="https://x.com/Vara_Dew?s=08">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic" height="35"/>
   </a>
+  <a href="https://codolio.com/profile/varshadewangan454">
+    <img src="https://img.shields.io/badge/-Codolio-4B0082?style=for-the-badge&logo=code&logoColor=white&style=plastic" height="35"/>
+  </a>
   <a href="https://www.buymeacoffee.com/Varsha1605">
     <img src="https://custom-icon-badges.demolab.com/badge/-Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=coffee&logoColor=white&style=plastic" height="35"/>
   </a>
