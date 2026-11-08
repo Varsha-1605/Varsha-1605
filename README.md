@@ -212,25 +212,19 @@ class VarshaDewangan:
 
 ## 🌱 Open Source
 
-GSSoC'24 Extended (Rank 73) • SWOC'25 Project Admin • Hacktoberfest 2024 • Winter of Blockchain
+<p align="center">
+  <img src="https://img.shields.io/badge/GSSoC'24_Extended-Rank_73-F97316?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SWOC'25-Project_Admin-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hacktoberfest-2024-9333EA?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Winter_of_Blockchain-Contributor-0EA5E9?style=for-the-badge&logo=ethereum&logoColor=white"/>
+</p>
 
 <details>
-  <summary><h3>🎉 Hacktoberfest 2024 & GSSoC'24 Badges</h3></summary>
+  <summary><h3>🎉 Hacktoberfest 2024 Badges</h3></summary>
   <div align="center">
     <a href="https://holopin.io/@varsha1605">
       <img src="https://holopin.io/api/user/board?user=varsha1605" alt="Holopin Board"/>
     </a>
-    <br/><br/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman Badge"/>
-    <img width="90" src="https://github.com/GSSoC24/Hack-Web3Conf/raw/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Web3Conf Badge"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Badge 3"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Badge 4"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" alt="Badge 5"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" alt="Badge 6"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" alt="Git Explorer"/>
-    <img width="90" src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" alt="Pull Expert"/>
   </div>
 </details>
 
