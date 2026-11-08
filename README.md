@@ -168,6 +168,8 @@ class VarshaDewangan:
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" />
   <img src="https://img.shields.io/badge/LiveKit-1F1F1F?style=flat-square&logo=livekit&logoColor=white" />
   <img src="https://img.shields.io/badge/mem0-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/LiteLLM-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/DeepEval-6D28D9?style=flat-square" />
 </p>
 
 <h3>🗄️ Vector Databases</h3>
