@@ -31,7 +31,7 @@ class VarshaDewangan:
         self.role = "AI Engineer"
         self.focus = ["Agentic AI", "GenAI", "LLMs", "RAG", "Voice Agents", "LangGraph"]
         self.education = "B.Tech CSE (AI & ML), Kalinga University — CGPA 9.1"
-        self.open_to = ["AI Engineer roles", "Remote", "Hybrid", "On-site"]
+        self.open_to = ["AI Engineer", "GenAI", "Agentic AI", "Voice AI", "Forward Deployed Engineer", "Remote", "Relocation"]
 ```
 
 - 🤖 I build RAG systems, multi-agent systems and real-time voice agents
@@ -46,7 +46,7 @@ class VarshaDewangan:
 **AI/ML Engineer Intern — Etech Global Services** · Remote · Jan 2026 – Aug 2026
 - Delivered a multimodal RAG pipeline over text, tables and images in PDF and DOCX files, improving retrieval relevance by 40%
 - Improved a grammar-correction engine from 40% to 90%+ accuracy
-- Built a LangGraph speech-to-speech voice agent on Amazon Nova 2 Sonic with 700–800 ms end-to-end latency
+- Architected a real-time speech-to-speech voice agent on Amazon Nova 2 Sonic (AWS Bedrock) with 700–800 ms end-to-end latency
 - Implemented long-term memory for LLM agents with mem0
 
 **Research Intern — IIT Ropar** · On-site · Jan 2026 – Jun 2026
@@ -113,7 +113,7 @@ class VarshaDewangan:
     <tr>
       <td width="50%" align="center">
         <h3>🏆 EY Techathon 6.0 Semi-Finalist</h3>
-        <p><kbd>Top 61 of 185,000+ registrations</kbd></p>
+        <p><kbd>61 teams advanced from 1.8 lakh+ entrants</kbd></p>
         <p>Built solo. Pitched to Aditya Birla Fashion & Retail.</p>
       </td>
       <td width="50%" align="center">
@@ -146,7 +146,7 @@ class VarshaDewangan:
           <img src="https://img.shields.io/badge/State_Rank-10th-FFD700?style=for-the-badge"/>
           <img src="https://img.shields.io/badge/District_Rank-1st-FFD700?style=for-the-badge"/>
         </p>
-        <p>CGBSE Board 2022. IBC24 Swarn Sharda Scholarship.</p>
+        <p>Class 12 boards (CGBSE 2022). IBC24 Swarn Sharda Scholarship.</p>
       </td>
     </tr>
   </table>
