@@ -29,11 +29,9 @@
 class VarshaDewangan:
     def __init__(self):
         self.role = "AI Engineer"
-        self.focus = ["GenAI & LLMs", "Agentic AI", "RAG", "Voice AI"]
-        self.experience = ["AI/ML Engineer Intern @ Etech Global Services",
-                           "Research Intern @ IIT Ropar"]
+        self.focus = ["Agentic AI", "GenAI", "LLMs", "RAG", "Voice Agents", "LangGraph"]
         self.education = "B.Tech CSE (AI & ML), Kalinga University — CGPA 9.1"
-        self.open_to = ["AI Engineer roles", "Remote", "Relocation"]
+        self.open_to = ["AI Engineer roles", "Remote", "Hybrid", "On-site"]
 ```
 
 - 🤖 I build RAG systems, multi-agent systems and real-time voice agents
@@ -45,15 +43,21 @@ class VarshaDewangan:
 
 ## 💼 Experience
 
-| Role | Company | When |
-|---|---|---|
-| **AI/ML Engineer Intern** | Etech Global Services (remote) | Jan 2026 – Aug 2026 |
-| **Research Intern** | IIT Ropar | Jan 2026 – Jun 2026 |
-| **AI Model Trainer and Evaluator** | Outlier (freelance) | Oct 2024 – Jan 2026 |
-| **Machine Learning Intern** | PW (PhysicsWallah) | Feb 2025 – Mar 2025 |
+**AI/ML Engineer Intern — Etech Global Services** · Remote · Jan 2026 – Aug 2026
+- Delivered a multimodal RAG pipeline over text, tables and images in PDF and DOCX files, improving retrieval relevance by 40%
+- Improved a grammar-correction engine from 40% to 90%+ accuracy
+- Built a LangGraph speech-to-speech voice agent on Amazon Nova 2 Sonic with 700–800 ms end-to-end latency
+- Implemented long-term memory for LLM agents with mem0
 
-- **Etech:** multimodal RAG for enterprise documents (text, tables and images), a speech-to-speech voice agent at 700–800 ms latency, a grammar correction engine improved from 40% to 90%+ accuracy and long-term agent memory with mem0
-- **IIT Ropar:** deep learning pipeline that detects brain aneurysms in 3D CT scans
+**Research Intern — IIT Ropar** · On-site · Jan 2026 – Jun 2026
+- Designed a 6-step pipeline that turns 518 raw CTA scans into training-ready 3D patches for brain aneurysm detection
+- Fixed a coordinate mismatch bug that had placed ~50% of positive patches at the wrong locations
+
+**AI Model Trainer and Evaluator — Outlier** · Freelance · Oct 2024 – Jan 2026
+- Evaluated and corrected LLM responses for math, logic and reasoning, used as training data
+
+**Machine Learning Intern — PW (PhysicsWallah)** · Remote · Feb 2025 – Mar 2025
+- Built a LightGBM revenue model on 900K+ e-commerce sessions and a Streamlit dashboard for traffic KPIs
 
 ---
 
@@ -212,12 +216,9 @@ class VarshaDewangan:
 
 ## 🌱 Open Source
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GSSoC'24_Extended-Rank_73-F97316?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SWOC'25-Project_Admin-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hacktoberfest-2024-9333EA?style=for-the-badge&logo=hacktoberfest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Winter_of_Blockchain-Contributor-0EA5E9?style=for-the-badge&logo=ethereum&logoColor=white"/>
-</p>
+- **Project Admin, SWOC** — led SocioSell, reviewed and merged 25 pull requests from 7 contributors
+- **GSSoC'24 Extended** — ranked 73rd of 42,000+ contributors with 22 merged pull requests
+- **Hacktoberfest 2024** — contributor
 
 <details>
   <summary><h3>🎉 Hacktoberfest 2024 Badges</h3></summary>
