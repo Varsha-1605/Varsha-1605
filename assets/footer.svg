@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#7aa2f7"><animate attributeName="stop-color" values="#7aa2f7;#bb9af7;#7aa2f7" dur="8s" repeatCount="indefinite"/></stop>
+<stop offset="50%" stop-color="#bb9af7"><animate attributeName="stop-color" values="#bb9af7;#2ac3de;#bb9af7" dur="8s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#2ac3de"><animate attributeName="stop-color" values="#2ac3de;#7aa2f7;#2ac3de" dur="8s" repeatCount="indefinite"/></stop>
+</linearGradient></defs>
+<path d="M0 150 H1200 V20 Q850 70 600 15 T0 45 Z" fill="url(#g)" opacity="0.4"/>
+<path d="M0 150 H1200 V40 Q900 -10 600 30 T0 20 Z" fill="url(#g)"/>
+
+<text x="600" y="100" text-anchor="middle" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff">Open to AI Engineer roles — let&#x27;s talk!</text>
+
+</svg>

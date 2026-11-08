@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Varsha%20Dewangan&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20|%20GenAI%20%26%20LLMs%20|%20Agentic%20AI&descAlignY=55" width="100%">
+  <img src="assets/header.svg" width="100%" alt="Varsha Dewangan — AI Engineer">
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6CE4F7&center=true&vCenter=true&random=false&width=900&height=50&lines=I+build+AI+systems+that+run+in+production;RAG+%E2%80%A2+Multi-agent+systems+%E2%80%A2+Voice+agents" alt="Typing SVG" />
+  <img src="assets/typing.svg" alt="I build AI systems that run in production" />
 </div>
 
 <p align="center">
@@ -63,43 +63,39 @@ class VarshaDewangan:
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Varsha-1605/Question-Answering-Chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Question-Answering-Chatbot&theme=tokyonight&hide_border=true" />
+        <img src="assets/enterprise-rag.svg" width="100%" alt="enterprise-rag" />
       </a>
-      <p><b>Enterprise RAG</b> — Q&A over your own documents, with web search for current events. Live on AWS EC2 with CI/CD. 98% contextual recall and 96% precision (DeepEval).</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Varsha-1605/AI-Sales-Orchestrator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=AI-Sales-Orchestrator&theme=tokyonight&hide_border=true" />
+        <img src="assets/ai-sales-orchestrator.svg" width="100%" alt="ai-sales-orchestrator" />
       </a>
-      <p><b>AI Sales Orchestrator</b> — 6 LangGraph agents that sell across web and WhatsApp with shared memory. Under 2 s replies. EY Techathon 6.0 semi-finalist.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Varsha-1605/NexaConnect-Voice-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=NexaConnect-Voice-Agent&theme=tokyonight&hide_border=true" />
+        <img src="assets/nexaconnect-voice-agent.svg" width="100%" alt="nexaconnect-voice-agent" />
       </a>
-      <p><b>NexaConnect Voice Agent</b> — real-time voice agent that handles customer calls by phone or browser and completes the request on the call. Built on LiveKit. <a href="https://nexaconnect-web.pages.dev">Live demo</a></p>
+      <p align="center"><a href="https://nexaconnect-web.pages.dev">▶ Live demo</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Varsha-1605/Project-Samarth">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Project-Samarth&theme=tokyonight&hide_border=true" />
+        <img src="assets/project-samarth.svg" width="100%" alt="project-samarth" />
       </a>
-      <p><b>Project Samarth</b> — RAG over Indian agriculture and climate data from data.gov.in. Hybrid search and reranking. 88% factual accuracy, 98% correct citations. <a href="https://vara1605454-project-samarth.hf.space/">Live demo</a></p>
+      <p align="center"><a href="https://vara1605454-project-samarth.hf.space/">▶ Live demo</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Varsha-1605/Image-Captioning-and-Segmentation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=Image-Captioning-and-Segmentation&theme=tokyonight&hide_border=true" />
+        <img src="assets/perceptra-ai.svg" width="100%" alt="perceptra-ai" />
       </a>
-      <p><b>Perceptra AI</b> — image captioning (ResNet50-LSTM trained on MS COCO), object segmentation with YOLOv8 and face login at 94% accuracy.</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Varsha-1605/SocioSell">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Varsha-1605&repo=SocioSell&theme=tokyonight&hide_border=true" />
+        <img src="assets/sociosell.svg" width="100%" alt="sociosell" />
       </a>
-      <p><b>SocioSell</b> — open-source tool that turns social media product posts into e-commerce listings. 25 stars, 23 forks.</p>
     </td>
   </tr>
 </table>
@@ -211,12 +207,6 @@ class VarshaDewangan:
   </p>
 </div>
 
-<details>
-  <summary><h3>🏆 GitHub Trophies</h3></summary>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Varsha-1605&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-  </div>
-</details>
 
 ---
 
@@ -246,12 +236,8 @@ GSSoC'24 Extended (Rank 73) • SWOC'25 Project Admin • Hacktoberfest 2024 •
 
 ---
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Varsha-1605&custom_title=Varsha's%20GitHub%20Activity&bg_color=1a1b27&color=628fdb&line=2fccc0&point=fb418c&area=true&hide_border=true" alt="Varsha's GitHub Activity Graph" width="100%">
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Varsha-1605&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Open%20to%20AI%20Engineer%20roles%20%E2%80%94%20let's%20talk!&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%">
+<img src="assets/footer.svg" width="100%" alt="Open to AI Engineer roles">
