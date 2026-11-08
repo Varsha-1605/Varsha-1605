@@ -170,6 +170,10 @@ class VarshaDewangan:
   <img src="https://img.shields.io/badge/mem0-6D28D9?style=flat-square" />
   <img src="https://img.shields.io/badge/LiteLLM-0F172A?style=flat-square" />
   <img src="https://img.shields.io/badge/DeepEval-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=flat-square&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cartesia-111111?style=flat-square" />
 </p>
 
 <h3>🗄️ Vector Databases</h3>
@@ -181,9 +185,14 @@ class VarshaDewangan:
 
 <h3>☁️ Cloud & Deployment</h3>
 <p>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon%20Bedrock-01A88D?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions%20CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiveKit%20Cloud-1F1F1F?style=flat-square&logo=livekit&logoColor=white" />
 </p>
 
 <h3>🧠 ML & Data</h3>
@@ -191,11 +200,12 @@ class VarshaDewangan:
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
 <h3>💡 Areas</h3>
-<p>Agentic AI · Multi-agent Systems · RAG · LLMs · Multimodal AI · Conversational AI · Prompt Engineering · Model Evaluation · NLP · Deep Learning · REST APIs · AI System Design</p>
+<p>Agentic AI · Multi-agent Systems · RAG · LLMs · Multimodal AI · Conversational AI · Voice AI · Prompt Engineering · LLM Evaluation · NLP · Deep Learning · REST APIs · AI System Design</p>
   </div>
 </details>
 
